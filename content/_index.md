@@ -34,12 +34,9 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+      text: |
+        I investigate how biological neural networks support complex cognitive behaviors by integrating insights from neuroscience, physics, and computational modeling. My research explores the fundamental principles underlying neural dynamics, and how this knowledge may be translated into cutting-edge technologies, such as AI algorithms and neuromorphic systems. Additionally, I explore the broader sociocultural implications of these advancements, particularly in the intersection of artificial and biological entities.
+        Please reach out to collaborate 😃!
     design:
       columns: '1'
   - block: collection

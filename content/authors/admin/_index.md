@@ -49,18 +49,20 @@ profiles:
 interests:
   - Computational Neuroscience
   - Reservoir Computing
+  - Neuromorphic Systems
   - Artificial Intelligence
   - Cyborg Theory
 
 education:
-  - area: PhD Neuroscience
-    institution: Universidad de Valparaíso
+  - area: Ph.D. Neuroscience
+    institution: Universidad de Valparaíso, Chile
     date_start: 2020-01-01
     date_end: 2025-04-30
     summary: |
       Thesis on _Computational model of Selective Attention_ Supervised by [Prof. Patricio Orio](https://cinv.uv.cl/members/porio/)
+
   - area: M.Sc. Neuroscience
-    institution: Universidad de Valparaíso  
+    institution: Universidad de Valparaíso, Chile
     date_start: 2018-01-01
     date_end: 2021-06-30
     summary: |
@@ -68,6 +70,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://repositoriobibliotecas.uv.cl/items/57194040-3783-4b34-86bf-c5fdf055a354'
+
   - area: BEng Electrical Engineering
     institution: Universidad de Santiago de Chile
     date_start: 2005-03-01
@@ -134,11 +137,13 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Spanish
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: English
+    percent: 93
+  - name: Italian
+    percent: 35
+  - name: French
     percent: 25
 
 # Awards.
