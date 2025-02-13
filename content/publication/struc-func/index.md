@@ -1,13 +1,17 @@
 ---
+#This part is for the post itself
 title: "Relationship between network's structure and function."
 authors:
 - admin
-- et al.
-date: "2025-01-024T00:00:00Z"
+- Sebastián Orellana-Villota
+- Carlos Coronel-Oliveros
+- Jean Paul Maidana
+- Patricio Orio
+date: "2025-01-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-02-12T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,23 +28,24 @@ abstract: The brain’s ability to transition between functional states while ma
 summary: The brain’s ability to transition between functional states while maintaining both flexibility and stability is shaped by its structural connectivity. Understanding the relationship between brain structure and neural dynamics is a central challenge in neuroscience. This study investigates how the balance between integration and segregation in brain networks influences their dynamical properties, focusing on multistability (switching between stable states) and metastability (transient stability over time). 
 
 tags:
-- Small-world networks
-- Brain dynamics 
+- Network dynamics
+- Small-world networks 
 - Neural connectivity
 
+# Display this page in the Featured widget?
 featured: true
 
 links:
-- name: bioRxiv prepring
-  url: 
-url_pdf: 'https://www.biorxiv.org/content/10.1101/2025.01.24.634823v2.full.pdf'
+- name: bioRxiv preprint
+  url: 'https://www.biorxiv.org/content/10.1101/2025.01.24.634823v2'
+# url_pdf: 'https://www.biorxiv.org/content/10.1101/2025.01.24.634823v2.full.pdf'
 url_code: 'https://github.com/vandal-uv/Integration-Segregation'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -67,8 +72,3 @@ slides: example
 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
